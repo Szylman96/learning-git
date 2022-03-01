@@ -1,0 +1,10 @@
+szyme@DESKTOP-9RCD6OV MINGW64 ~/Desktop/Kodilla/learning-git (master)
+$ html-validate index.html
+
+C:\Users\szyme\Desktop\Kodilla\learning-git\index.html
+  1:1  warning  Usage of deprecated rule "void"  deprecated-rule
+
+✖ 1 problem (0 errors, 1 warning)
+
+More information:
+  https://html-validate.org/rules/deprecated-rule.html
